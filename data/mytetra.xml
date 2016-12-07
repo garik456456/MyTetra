@@ -10,7 +10,12 @@
    </recordtable>
   </node>
   <node crypt="" id="14811413422wj72yy61c" name="История">
-   <node crypt="" id="1481141354y902n0xp20" name="Colonel Cassad"/>
+   <node crypt="" id="1481141354y902n0xp20" name="Colonel Cassad">
+    <recordtable>
+     <record id="1481142644u93bcgjnq1" name="Ни союзники, ни противники никогда не забудут и не простят того, что мы хотели Царьград и Проливы" author="Кассад" url="http://colonelcassad.livejournal.com/3114398.html" tags="Кассад, Cassad, 1917, Алексеев, Базили, Британская Империя, Николай II, Первая мировая война, Покровский, Российская Империя, Турция, Что почитать, документы, история, книги" ctime="20161207233044" dir="1481142644aurkbnptl5" file="text.html"/>
+     <record id="1481142963ztpx0x8mdz" name="Аннулирование &quot;Брестского мира&quot;" author="Кассад" url="http://colonelcassad.livejournal.com/3067385.html" tags="Кассад, Cassad, 1918, Брестский мир, Первая мировая война, Революция в Германии, Свердлов, большевики, документы, империализм, история, немцы" ctime="20161207233603" dir="14811429630pdq112vsu" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="" id="1481141396ubksgf8fma" name="Программы">
    <node crypt="" id="1481141404qroy946s94" name="MyTetra">
