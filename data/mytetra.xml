@@ -9,5 +9,15 @@
     <record id="1481139640xycjpf7ey1" name="Hi" author="" url="" tags="start" ctime="20161207224040" dir="1481139640ai1e3cyvox" file="text.html"/>
    </recordtable>
   </node>
+  <node crypt="" id="14811413422wj72yy61c" name="История">
+   <node crypt="" id="1481141354y902n0xp20" name="Colonel Cassad"/>
+  </node>
+  <node crypt="" id="1481141396ubksgf8fma" name="Программы">
+   <node crypt="" id="1481141404qroy946s94" name="MyTetra">
+    <recordtable>
+     <record id="1481141505boxx2jbrvj" name="Настройка синхронизации" author="" url="http://webhamster.ru/site/page/index/articles/projectcode/170" tags="Soft программы MyTetra синхронизация" ctime="20161207231145" dir="1481141505lq6ze4awlv" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
  </content>
 </root>
