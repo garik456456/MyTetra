@@ -27,6 +27,13 @@
      <record id="1481141505boxx2jbrvj" name="Настройка синхронизации" author="" url="http://webhamster.ru/site/page/index/articles/projectcode/170" tags="Soft программы MyTetra синхронизация" ctime="20161207231145" dir="1481141505lq6ze4awlv" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" id="148121145358is9oefz6" name="FreeBSD">
+    <node crypt="" id="1481211461ll5c9r0sug" name="Литература">
+     <recordtable>
+      <record id="1481211607byq6q992aj" name="Полный список и описание всех русскоязычных книг по FreeBSD" author="Blogerator.ru" url="http://blogerator.ru/page/knigi-po-freebsd-rus-2011" tags="Blogerator, книги, FreeBSD, программирование" ctime="20161208184007" dir="1481211607fhf3kc9chw" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
   </node>
   <node crypt="" id="14811912523ps76uykal" name="Заметки на память">
    <recordtable>
