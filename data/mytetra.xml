@@ -49,5 +49,12 @@
     <record id="1481191314aiam77obul" name="СпидиЛайн" author="Я" url="" tags="СпидиЛайн, интернет, логин" ctime="20161208130154" dir="1481191314n1g7tidmtt" file="text.html"/>
    </recordtable>
   </node>
+  <node crypt="" id="14815427651ydj5lyt5k" name="Программирование">
+   <node crypt="" id="1481542775ikg4zt77iq" name="Оптимизация">
+    <recordtable>
+     <record id="1481542915gmf5xr8y7s" name="Заметки об оптимизации: О пользе Loop-invariant Code Motion" author="blogerator.ru" url="http://blogerator.ru/page/zametki-ob-optimizacii-programm-1-loop-invariant-code-motion-licm-singleton-i-optimizacija-funkcij" tags="Read, теория, LICM, оптимизация, цикл" ctime="20161212144155" dir="1481542915z1ms0fyun2" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
  </content>
 </root>
