@@ -54,6 +54,7 @@
     <recordtable>
      <record id="1481542915gmf5xr8y7s" name="Заметки об оптимизации: О пользе Loop-invariant Code Motion" author="blogerator.ru" url="http://blogerator.ru/page/zametki-ob-optimizacii-programm-1-loop-invariant-code-motion-licm-singleton-i-optimizacija-funkcij" tags="Read, blogerator, теория, LICM, оптимизация, цикл" ctime="20161212144155" dir="1481542915z1ms0fyun2" file="text.html"/>
      <record id="1481548034xl872d2hfl" name="Влияние иерархического кэша на производительность алгоритмов" author="blogerator.ru" url="http://blogerator.ru/page/zametki-ob-optimizacii-programm-2-big-o-notation-skorost-algoritmov-i-optimizacija-funkcij" tags="blogerator, теория, оптимизация, кэш" ctime="20161212160714" dir="1481548034q3x2r2q1li" file="text.html"/>
+     <record id="1481719078b4id2eijwe" name="Отключение сбора статистики" author="Я" url="" tags="статистика, оптимизация, сбор" ctime="20161214153758" dir="14817190785n91ob83lk" file="text.html"/>
     </recordtable>
    </node>
   </node>
