@@ -44,11 +44,11 @@
     </node>
    </node>
   </node>
-  <node crypt="" id="14811912523ps76uykal" name="Заметки на память">
+  <node crypt="1" icon="" id="14811912523ps76uykal" name="UkM1U0lNUAPH24OTP9W14dSFgq0gAzJKlSMs4PkqPOpqqkqrZNwF5E6xS1pJatXp008Rq6drAte55xJjpIw0UT+L2SX6Znz3">
    <recordtable>
-    <record id="1481191314aiam77obul" name="СпидиЛайн" author="Я" url="" tags="СпидиЛайн, интернет, логин" ctime="20161208130154" dir="1481191314n1g7tidmtt" file="text.html"/>
-    <record id="148172550964kd0xa70e" name="Книги к прочтению" author="Я" url="" tags="Книги, читать" ctime="20161214172509" dir="1481725509ob8adyct37" file="text.html"/>
-    <record id="1482743123frb9dbosc1" name="формальные процедуры подготовки визуализации" author="Я" url="" tags="NSViewer, программирование, работа, визуализация" ctime="20161226120523" dir="14827431236z7245tbjj" file="text.html"/>
+    <record id="1481191314aiam77obul" name="UkM1U0lNUAO7UEinZY8Q+6U93vNhueL2Z1aiAV/Ff5Z6UvteWPR0oHwtkGHImNAAAsXF6U7X7C+4cLOCTMfG9Q==" author="UkM1U0lNUANcXiZZTTfXy+hsHPJCqo0y+ehhzVTK/0gbeSLvOfZkmlgX/BANeyK6" url="" tags="UkM1U0lNUANZfmUZcAWpAfS0mZtMKOGemYJtMBbwOC3ye2pp90+ntq/GQXIikYO5wnCpzQFAsTyKUFMKPhE5FpRXWlLheDRCsC407LNkCY7esDtIFva9Qg==" ctime="20161208130154" dir="1481191314n1g7tidmtt" file="text.html" crypt="1"/>
+    <record id="148172550964kd0xa70e" name="UkM1U0lNUAMivdZAjfb/hYjiK8BNh1w0kEe0jq9Gcif0/UfBt8mUzhIqVT6P2997PliL6nHWGTsybZSf4WJJGiUNl1htTham" author="UkM1U0lNUANGtUGDvAGQO8N8RWTJU6V3kaV8I/kKt6E8b4536ZYSs2J/wmbm16cb" url="" tags="UkM1U0lNUANbB3mwmaPq1JBJG7QMgutJXVO4xDBpj/n9est5ggMZerRBpTi7wId9K3TS+UvObNJgkG+kCABZzQ==" ctime="20161214172509" dir="1481725509ob8adyct37" file="text.html" crypt="1"/>
+    <record id="1482743123frb9dbosc1" name="UkM1U0lNUAMUgheqL1GJ9eeP+aAvzAl/YNO8p4u9lYyCzDbqTkV6NkYeuT0oSPbS0TF1J4wjVHLjvwNFzK1PEMOH+ZQDMmEaoeQOki8cj74sYSBM1rY5DUg0cWZSVtfshJPTsVoMCi+GGS1FzzPethvAMjNXrw69wue9iijQark=" author="UkM1U0lNUAONR0dqiM2XHleQeO1r7BA4SAJhCSE5ExF1qsLSN10+JstdM1pVy8ll" url="" tags="UkM1U0lNUANNAowkKGXBoQCXG6ngnLYxSYJJ4cA1PedFrYw/NVxz8DgeG5W59S8EnTzdpXuD4OEw8N4/eOV7EiSi2N/PPNQ5VP3QwYKBcgwBK/LynaXSgm/h1XsJfOiSKubm5f+TL2uSe+NlvvxKxubWX3oTYLt3HoauEVr8bjE=" ctime="20161226120523" dir="14827431236z7245tbjj" file="text.html" crypt="1"/>
    </recordtable>
   </node>
   <node crypt="" id="14815427651ydj5lyt5k" name="Программирование">
