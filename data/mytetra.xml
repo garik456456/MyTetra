@@ -79,5 +79,10 @@
     <record id="1486024113jgx1141moh" name="Каша в мультиварке" author="Наташа" url="" tags="кухня, каша, мультиварка" ctime="20170202112833" dir="148602411332idl6catz" file="text.html"/>
    </recordtable>
   </node>
+  <node crypt="" id="1487692886npqzcj3s1b" name="Развивающие материалы">
+   <recordtable>
+    <record id="1487692930lzdnk1lbc8" name="Журнал Квантик" author="" url="http://kvantik.org/all.htm" tags="журнал, квантик, квант, развивающий, математика, физика" ctime="20170221190210" dir="1487692930l3xtlb37c4" file="text.html"/>
+   </recordtable>
+  </node>
  </content>
 </root>
